@@ -1,3 +1,3 @@
 REST API -JSON
 
-GET /Users -
+GET /Users - List down all the users
