@@ -1,3 +1,3 @@
-## TODO
-* Use this same json in the previous project which i have made the structure save this json in a folder and the try to get and post from this
-  
+# API mock data
+
+Mock JSON data for experimenting with API requests. My original plan was to reuse this data in the earlier API project and test GET and POST requests.
